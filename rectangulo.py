@@ -4,6 +4,6 @@ class rectangulo:
 		self.x = x
 		self.y = y
 
-	def area(self):
-		return self.x * self.y
+	'''def area(self):
+		return self.x * self.y'''
 
